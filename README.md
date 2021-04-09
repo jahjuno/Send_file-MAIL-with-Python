@@ -5,7 +5,7 @@ Mais soyez patient 😄, tout d'abord nous allons installer **les dépendances n
 </br>**pip3 install smtplib** 
 </br>**pip3 install ssl**
 </br>**pip3 install email**
-</br>Et si vous aurez des erreurs **"module not found"** il suffit de les installer comme on a fait ***"pip3 install name_module"*** si cela ne marche pas essayez avec ceci ****apt-get install python3-name-module*** ou bien les installer directe ***apt-get install name_module***
+</br>Et si vous aurez des erreurs **"module not found"** il suffit de les installer comme on a fait ***"pip3 install name_module"*** si cela ne marche pas essayez avec ceci ****apt-get install python3-name_module*** ou bien les installer directe ***apt-get install name_module***
 
 </br> Dans notre code *send_file_log_mail_save.py*, il y a ceci : <img src="img/mdp.png" width="700px" height="80px"></br>
 </br> Il faut que votre ***mot de passe*** soit enregistrée dans votre système c'est-à-dire dans *déclarer comme une variable système* si non je peux connecter avec votre email 😅 en utilisant le mot de passe que vous écrivez ici. Pour le faire , il suffit juste de faire comme ceci sur votre terminal: 
