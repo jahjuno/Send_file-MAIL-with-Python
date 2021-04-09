@@ -6,9 +6,9 @@ Mais soyez patient 😄, tout d'abord nous allons installer **les dépendances n
 </br>**pip3 install ssl**
 </br>**pip3 install email**
 
-</br> Dans notre code *send_file_log_mail_save.py*, il y a ceci : <img src="img/mdp.png" width="700px" height="80px">
+</br> Dans notre code *send_file_log_mail_save.py*, il y a ceci : <img src="img/mdp.png" width="700px" height="80px"></br>
 </br> Il faut que votre ***mot de passe*** soit enregistrée dans votre système c'est-à-dire dans *déclarer comme une variable système* si non je peux connecter avec votre email 😅 en utilisant le mot de passe que vous écrivez ici. Pour le faire , il suffit juste de faire comme ceci sur votre terminal: 
-</br>
+
 </br>**mdp="votre mot de passe"** et après **export mdp** pour vérifier que votre variable est enregistrée comme variable système tapez 👉 **env**
 </br> Et voilà on a fini les installations et les autres instructions , lancez maintenant notre scrypte **python3 send_file_log_mail_save.py**
 </br> ***Wouaouh 😲 😲 ça marche pas***. Ne vous inquiètez pas c'est sure que vous aurez l'erreur suivant non : 
