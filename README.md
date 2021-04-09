@@ -4,3 +4,5 @@ Donc voilà 😄, comme vous voyez ce petit scrypte a comme fonction de 🖇️*
 Et pour le lancer automatiquement, je vous conseille d'utiliser **crontab** 👍 ➡️ 
 ### Voici donc une petite explication pour vous aider
 </br> <img src="img/crontab.png" width="600px" height="300px">
+</br> Comme vous pouver voir en-dessus l'explication, voici un exemple pour lancer notre scrypte :
+</br> <img src="img/capture_1.png" width="600px" height="300px">
