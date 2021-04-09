@@ -10,11 +10,11 @@ Mais soyez patient 😄, tout d'abord nous allons installer **les dépendances n
 </br>**mdp="votre mot de passe"** et après **export mdp** pour vérifier que votre variable est enregistrée comme variable système tapez 👉 **env**
 </br> Et voilà on a fini les installations et les autres instructions , lancez maintenant notre scrypte **python3 send_file_log_mail_save.py**
 </br> ***Wouaouh 😲 😲 ça marche pas***. Ne vous inquiètez pas c'est sure que vous aurez l'erreur suivant non : 
-</br> <img src="img/error.png" width="600px" height="300px">
+</br> <img src="img/error.png" width="900px" height="300px">
 </br> 
 #### Pour résoudre ce problème 
 </br>Il suffit de se connecter à votre mail et [👉 cliquez ici](https://www.google.com/settings/security/lesssecureapps). Et après autoriser les applications moins sécurisées :
-</br> <img scr="img/active.png" width="300px" height="200px">
+</br> <img src="img/active.png" width="300px" height="200px">
 
 Donc voilà 😄, comme vous voyez ce petit scrypte a comme fonction de 🖇️***récuperer le fichier*** de votre choix et de ***l'envoyer à un destinataire par email.***
 Et pour le lancer automatiquement, je vous conseille d'utiliser **crontab** 👍 ➡️ 
