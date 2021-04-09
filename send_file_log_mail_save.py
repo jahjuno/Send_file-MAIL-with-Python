@@ -26,7 +26,8 @@ message['Subject'] = subject
 #ajouter du corps a l' e-mail
 message.attach(MIMEText(body, "plain"))
 
-filename = "/var/log/nginx/access.log" #Le fichier qu'on va envoyer
+filename = "test.txt"
+#filename = "/var/log/nginx/access.log" #Le fichier qu'on va envoyer
 
 #ouvrir le fichier pdf en binaire
 with open(filename, "rb") as attachement:
