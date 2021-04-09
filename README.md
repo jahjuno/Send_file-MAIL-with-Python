@@ -14,7 +14,7 @@ Mais soyez patient 😄, tout d'abord nous allons installer **les dépendances n
 </br> 
 #### Pour résoudre ce problème 
 </br>Il suffit de se connecter à votre mail et [👉 cliquez ici](https://www.google.com/settings/security/lesssecureapps). Et après autoriser les applications moins sécurisées :
-</br> <img src="img/active.png" width="300px" height="200px">
+</br> <img src="img/active.png" width="500px" height="300px">
 
 Donc voilà 😄, comme vous voyez ce petit scrypte a comme fonction de 🖇️***récuperer le fichier*** de votre choix et de ***l'envoyer à un destinataire par email.***
 Et pour le lancer automatiquement, je vous conseille d'utiliser **crontab** 👍 ➡️ 
