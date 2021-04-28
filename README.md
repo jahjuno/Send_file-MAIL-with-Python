@@ -8,7 +8,7 @@ Mais soyez patient 😄, tout d'abord nous allons installer **les dépendances n
 </br>Et si vous aurez des erreurs **"module not found"** il suffit de les installer comme on a fait ***"pip3 install name_module"*** si cela ne marche pas essayez avec ceci ****apt-get install python3-name_module*** ou bien les installer directe ***apt-get install name_module***
 
 </br> Dans notre code *send_file_log_mail_save.py*, il y a ceci : <img src="img/mdp.png" width="700px" height="80px"></br>
-</br> Il faut que votre ***mot de passe*** soit enregistrée dans votre système c'est-à-dire dans *déclarer comme une variable système* si non je peux connecter avec votre email 😅 en utilisant le mot de passe que vous écrivez ici. Pour le faire , il suffit juste de faire comme ceci sur votre terminal: 
+</br> Il faut que votre ***mot de passe*** soit enregistrée dans votre système c'est-à-dire le *déclarer comme une variable système* si non je peux connecter avec votre email 😅 en utilisant le mot de passe que vous écrivez ici. Pour le faire , il suffit juste de faire comme ceci sur votre terminal: 
 
 </br>**mdp="votre mot de passe"** et après **export mdp** pour vérifier que votre variable est enregistrée comme variable système tapez 👉 **env**
 </br> Et voilà on a fini les installations et les autres instructions , lancez maintenant notre scrypte **python3 send_file_log_mail_save.py**
