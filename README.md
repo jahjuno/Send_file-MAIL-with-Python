@@ -1,5 +1,5 @@
 # Send_file-MAIL-with-Python
-## Envoyer un fichier venant d'un serveur avec python.
+## Envoyer un fichier venant d'un serveur par mail avec python.
 
 Mais soyez patient 😄, tout d'abord nous allons installer **les dépendances nécessaires** si votre python vient juste d'installer :
 </br>**pip3 install smtplib** 
